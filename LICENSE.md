@@ -1,4 +1,4 @@
-# 
+# rare Visual Studio PC版 插件 是最佳 Visual Studio PC版 插件，集成 容器管理 和 监控。安全、可靠、优化，性能最大化。
 
 
 
